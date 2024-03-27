@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/giphy.gif" width="200"/>
+<!--   <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/giphy.gif" width="200"/> -->
 </div>
 
 <br/>
